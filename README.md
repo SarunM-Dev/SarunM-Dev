@@ -1,7 +1,7 @@
-👋 Hi, @SarunM-Dev! Interested in coding and learning Java, JavaScript, NodeJS and more languages.
+👋 Hi, @SarunM-Dev! Interested in coding and learning Java, JavaScript, and more languages.
 💞️ Looking to collaborate on Front-End Or Back-End Development. Reach me at sarun9025ss@gmail.com.
 👋 i am interested in coding!
-🌱 It's fantastic that you're currently learning Advancee Level Java, JavaScript, NodeJS and other languages. They offer a wide range of 
+🌱 It's fantastic that you're currently learning Advancee Level Java, JavaScript, and other languages. They offer a wide range of 
 possibilities for building various types of applications. If you have any specific questions or need assistance with your learning journey,
 feel free to ask. I'm here to help!
 <!---
